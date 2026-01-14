@@ -1,0 +1,16 @@
+data,material,categoria,quantidade_comprada,quantidade_utilizada,quantidade_descartada,custo_unitario,setor
+2023-06-01,Cimento CP II,Base Estrutural,200,150,50,38.00,Obra
+2023-06-05,Areia Média,Agregado,15,11,4,120.00,Obra
+2023-06-10,Brita 1,Agregado,12,9,3,140.00,Obra
+2023-06-15,Bloco Cerâmico,Alvenaria,3000,2300,700,1.80,Obra
+2023-06-20,Tinta Acrílica,Acabamento,40,28,12,150.00,Acabamento
+2023-07-01,Cimento CP II,Base Estrutural,220,170,50,38.00,Obra
+2023-07-05,Areia Média,Agregado,18,14,4,120.00,Obra
+2023-07-10,Brita 1,Agregado,14,11,3,140.00,Obra
+2023-07-15,Bloco Cerâmico,Alvenaria,3200,2500,700,1.80,Obra
+2023-07-20,Tinta Acrílica,Acabamento,45,32,13,150.00,Acabamento
+2023-08-01,Cimento CP II,Base Estrutural,210,165,45,38.00,Obra
+2023-08-05,Areia Média,Agregado,16,13,3,120.00,Obra
+2023-08-10,Brita 1,Agregado,13,10,3,140.00,Obra
+2023-08-15,Bloco Cerâmico,Alvenaria,3100,2450,650,1.80,Obra
+2023-08-20,Tinta Acrílica,Acabamento,42,30,12,150.00,Acabamento

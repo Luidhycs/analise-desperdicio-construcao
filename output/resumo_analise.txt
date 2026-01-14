@@ -1,0 +1,10 @@
+RELATÓRIO DE ANÁLISE DE DESPERDÍCIO OPERACIONAL
+--------------------------------------------
+
+Custo total desperdiçado: R$ 3006.50
+Redução estimada após otimizações: 28.45%
+
+Principais conclusões:
+- O desperdício está concentrado em materiais de escritório e consumo.
+- O setor administrativo apresenta maior impacto financeiro.
+- Ajustes simples no controle de compras podem gerar economia significativa.
